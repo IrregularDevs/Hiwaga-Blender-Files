@@ -1,0 +1,20 @@
+2d stuffs:
+rice grains
+nuts
+piece of apple
+bowl of soup
+blanket
+
+3d stuffs
+grain storage
+nuts storage
+apple storage
+
+empty bowl
+pot of soup
+blanket
+
+anthony's house:
+bed
+kitchen (Pots, pans, bowl, plate, etc.)
+storage room
